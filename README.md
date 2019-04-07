@@ -13,6 +13,7 @@ Architecture followed in this convolution network is given below :
 * Relu
 * Sigmoid
 
+# Steps Involved :
 1. Model first gets trained on 1800 images of human/non-human dataset.
 2. CNN is compiled using Adam optimizer and metric is evaluated using cross entropy loss.
 3. Then model is evaluated based on test dataset.
